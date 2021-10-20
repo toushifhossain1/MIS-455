@@ -1,10 +1,14 @@
 .body{
     display: flex;
     align-items: center;
-    background-color: cadetblue;
+    background-color: rgb(174, 252, 255);
 }
-
-
+h1{
+    color: rgb(190, 47, 47);
+}
+.h3{
+    color: rgb(66, 19, 19);
+}
 .img1{ 
    margin-top: -210px;
     margin-left: 550px;
