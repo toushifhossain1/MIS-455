@@ -1,0 +1,11 @@
+.body{
+    display: flex;
+    align-items: center;
+    background-color: cadetblue;
+}
+
+
+.img1{ 
+   margin-top: -150px;
+    margin-left: 450px;
+}
